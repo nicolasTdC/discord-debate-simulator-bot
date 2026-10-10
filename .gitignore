@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+state.json
+state.tmp
+*.log
+
+# Personal prompts and local customization
+system_prompt.local.txt
+prompts/local/
